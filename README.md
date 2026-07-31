@@ -78,17 +78,17 @@
 ### 💼 Work Experience
 
 **🔹 Full Stack Web Developer | CafeAtlas** *(Oct 2025 – Present | Malad, India)*
-- ◦ Developing a scalable multi-outlet food ordering platform using **Next.js, PostgreSQL, Prisma, and Node.js** with role-based workflows for customers, managers, delivery partners, and admins.
-- ◦ Engineered real-time order tracking using **Socket.IO** and scalable **TypeScript REST APIs** to manage complete order lifecycle workflows across multiple user roles.
+-  Developing a scalable multi-outlet food ordering platform using **Next.js, PostgreSQL, Prisma, and Node.js** with role-based workflows for customers, managers, delivery partners, and admins.
+-  Engineered real-time order tracking using **Socket.IO** and scalable **TypeScript REST APIs** to manage complete order lifecycle workflows across multiple user roles.
 
 **🔹 Full Stack Developer Intern | StayAtlas** *(Feb 2025 – Sep 2025 | Malad, India)*
-- ◦ Architected a MERN-based villa booking platform with role-based dashboards, booking workflows, availability management, **Razorpay** payment integration, reviews, and secure access control.
-- ◦ Deployed and maintained production infrastructure on **AWS EC2, S3, and Nginx** while securing REST APIs with JWT authentication and optimizing media storage workflows.
+-  Architected a MERN-based villa booking platform with role-based dashboards, booking workflows, availability management, **Razorpay** payment integration, reviews, and secure access control.
+-  Deployed and maintained production infrastructure on **AWS EC2, S3, and Nginx** while securing REST APIs with JWT authentication and optimizing media storage workflows.
 
 **🔹 Freelance Software Developer | KIDSUN (E-commerce)** *(Oct 2024 | Goregaon, India)*
-- ◦ Delivered a MERN-based e-commerce platform featuring authentication, cart, wishlist, admin dashboards, order management, and **Razorpay** payment integration.
-- ◦ Integrated **AR Virtual Try-On** functionality using **MediaPipe Face Mesh and Hands**, enabling real-time sunglasses and watch visualization directly in the browser.
-- ◦ Optimized canvas-based overlay rendering and landmark tracking workflows for responsive real-time camera interactions and snapshot capture.
+-  Delivered a MERN-based e-commerce platform featuring authentication, cart, wishlist, admin dashboards, order management, and **Razorpay** payment integration.
+-  Integrated **AR Virtual Try-On** functionality using **MediaPipe Face Mesh and Hands**, enabling real-time sunglasses and watch visualization directly in the browser.
+-  Optimized canvas-based overlay rendering and landmark tracking workflows for responsive real-time camera interactions and snapshot capture.
 
 ---
 
@@ -96,13 +96,13 @@
 
 **🎟️ Vybe Event – Event Ticketing & Entry Management Platform (Live)** *(Jan 2026)*
 * **Tech:** *React.js, Vite, Node.js, Express.js, MongoDB, AWS S3, JWT*
-* ◦ Implemented a full-stack event ticketing platform with QR-based ticket generation, automated email delivery, and real-time ticket scanning workflows.
-* ◦ Designed admin dashboards and backend APIs to manage events, export attendee data, monitor ticket sales, and support **500+ real-world event bookings**.
+*  Implemented a full-stack event ticketing platform with QR-based ticket generation, automated email delivery, and real-time ticket scanning workflows.
+*  Designed admin dashboards and backend APIs to manage events, export attendee data, monitor ticket sales, and support **500+ real-world event bookings**.
 
 **⛓️ Blockchain-Based Digital Asset Marketplace** *(June 2025)*
 * **Tech:** *React.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB, Solidity, Ethers.js*
-* ◦ Built a decentralized marketplace to tokenize, buy, sell, and rent digital assets as NFTs using **Ethereum smart contracts**, ensuring ownership, authenticity, and transparent transactions.
-* ◦ Developed a React.js frontend integrated with Solidity smart contracts via Ethers.js, enabling secure payments, automated transactions, and wallet-based authentication.
+*  Built a decentralized marketplace to tokenize, buy, sell, and rent digital assets as NFTs using **Ethereum smart contracts**, ensuring ownership, authenticity, and transparent transactions.
+*  Developed a React.js frontend integrated with Solidity smart contracts via Ethers.js, enabling secure payments, automated transactions, and wallet-based authentication.
 
 ---
 
