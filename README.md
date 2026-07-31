@@ -113,30 +113,38 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abbhhhiiiii&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
----
+<!-- --- -->
 
-### 📊 GitHub Analytics & Contributions
+### 📊 GitHub Analytics (Live Contributions)
 
-<div align="center">
-  <!-- The Greenary Graph -->
-  <img src="https://ghchart.rshah.org/10B981/abbhhhiiiii" alt="Abhishek's Contribution Graph" width="98%" />
-  
-  <br><br>
 
-  <!-- Stats Grid (Includes Lifetime Commits to fetch total 800+) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abbhhhiiiii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  
-  <br>
-  
-  <!-- Top Languages Center Aligned in the grid -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbhhhiiiii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbhhhiiiii&theme=github_dark" width="100%" alt="Profile Details" />
+
+</p>
+
+<br>
+
+<p>
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=github_dark&hide_border=true&background=0D1117" width="80%" alt="GitHub Streak" />
+</p>
+
+</p>
+
+<br>
+
+<h2>📈 Contribution Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abbhhhiiiii&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true" />
+
+<br>
 
 ---
 
