@@ -125,8 +125,11 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbhhhiiiii&theme=github_dark" width="100%" alt="Profile Details" />
-
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbhhhiiiii&theme=github_dark&t=1722510000"
+    width="100%"
+    alt="Profile Details"
+  />
 </p>
 
 <br>
@@ -142,7 +145,7 @@
 
 <h2>📈 Contribution Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abbhhhiiiii&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abbhhhiiiii&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true&t=1722510000" />
 
 <br>
 
