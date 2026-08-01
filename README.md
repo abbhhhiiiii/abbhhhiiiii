@@ -132,8 +132,8 @@
 <br>
 
 <p>
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=github_dark&hide_border=true&background=0D1117" width="80%" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=github_dark&hide_border=true&background=0D1117&v=2" width="80%" alt="GitHub Streak" />
 </p>
 
 </p>
