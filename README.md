@@ -129,6 +129,7 @@
   <img
     src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/profile-summary-card-output/github_dark/0-profile-details.svg"
     width="100%"
+    alt="Profile Details"
   />
 </p>
 
