@@ -134,13 +134,11 @@
 
 <br>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=abbhhhiiiii&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    width="49%"
-    alt="GitHub Stats"
-  />
-</p>
+<img
+  src="https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </p>
 
