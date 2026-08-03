@@ -126,7 +126,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/profile-summary-card-output/github_dark/0-profile-details.svg"
+    src="https://github.com/abbhhhiiiii/abbhhhiiiii/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg?raw=true"
     width="100%"
     alt="Profile Details"
   />
