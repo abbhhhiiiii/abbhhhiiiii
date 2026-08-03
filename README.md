@@ -126,9 +126,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbhhhiiiii&theme=github_dark"
+    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/profile-summary-card-output/github_dark/0-profile-details.svg"
     width="100%"
-    alt="Profile Details"
   />
 </p>
 
