@@ -134,12 +134,12 @@
 
 <br>
 
+<p align="center">
 <img
   src="https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117"
   width="70%"
   alt="GitHub Streak"
 />
-
 </p>
 
 <br>
