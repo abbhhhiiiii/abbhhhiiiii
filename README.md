@@ -135,11 +135,9 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117&v=1"
-    width="80%"
-    alt="GitHub Streak"
-  />
+ <img src="https://github-readme-stats.vercel.app/api?username=abbhhhiiiii&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" 
+     width="80%"
+    alt="GitHub Streak"/>
 </p>
 
 </p>
