@@ -127,9 +127,9 @@
 
 <p align="center">
   <img
-    src="[https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/profile-summary-card-output/github_dark/0-profile-details.svg](https://github.com/abbhhhiiiii/abbhhhiiiii/blob/profile-summary-card-output/github_dark/0-profile-details.svg)"
-    width="100%"
+    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="Profile Details"
+    width="100%"
   />
 </p>
 
