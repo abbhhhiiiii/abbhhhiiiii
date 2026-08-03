@@ -136,7 +136,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117"
+    src="https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117&v=1"
     width="80%"
     alt="GitHub Streak"
   />
