@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20&%20DevOps%20%7C%20Web3&descAlignY=55&descAlign=50" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=🚀+Computer+Engineering+Graduate;💻+1%2B+Years+Exp.+in+Full-Stack+Development;⚡+Architecting+Scalable+MERN+%26+Next.js+Apps;☁️+Cloud+Deployment+%26+DevOps+Workflows;🔥+Let's+build+something+amazing+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Choudhary;Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Architecting+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br>
