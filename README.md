@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </details>
 
+
 <details open>
 <summary><b>DevOps, Cloud & Tools</b></summary>
 <br>
