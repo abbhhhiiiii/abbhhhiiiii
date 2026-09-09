@@ -137,13 +137,37 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=github_dark&hide_border=true&background=0D1117" width="80%" alt="GitHub Streak" />
 </p>
 
+### 📊 GitHub Analytics (Live Contributions)
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="Profile Details"
+  />
+</p>
+
 <br>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/github-stats/streak.svg"
+    width="80%"
+    alt="GitHub Streak"
+  />
+</p>
 
+<br>
 
 <h2>📈 Contribution Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abbhhhiiiii&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/github-stats/contribution-graph.svg"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 <br>
 
