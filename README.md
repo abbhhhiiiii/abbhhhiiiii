@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20&%20DevOps%20%7C%20Web3&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Web3&descAlignY=55&descAlign=50" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Gupta;Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Architecting+Scalable+Web+Apps" alt="Typing SVG" />
@@ -23,6 +23,7 @@
 ---
 
 ### 🚀 Summary
+
 > **Computer Engineering graduate** with **1+ years of hands-on experience** in full-stack development, scalable system design, cloud deployment, and DevOps workflows. Experienced in building production-ready applications while contributing across frontend, backend, APIs, automation, and deployment in real-world environments. Based in Mumbai, Maharashtra.
 
 ---
@@ -35,7 +36,7 @@
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </details>
 
@@ -49,16 +50,15 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
 </details>
-
 
 <details open>
 <summary><b>DevOps, Cloud & Tools</b></summary>
 <br>
-<img src="https://img.shields.io/badge/AWS_(EC2,_S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_(EC2,_S3)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -73,7 +73,6 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </details>
-
 
 ---
 
@@ -97,11 +96,13 @@
 ### 🛠️ Featured Projects
 
 **🎟️ Vybe Event – Event Ticketing & Entry Management Platform (Live)** *(Jan 2026)*
+
 * **Tech:** *React.js, Vite, Node.js, Express.js, MongoDB, AWS S3, JWT*
 * ◦ Implemented a full-stack event ticketing platform with QR-based ticket generation, automated email delivery, and real-time ticket scanning workflows.
 * ◦ Designed admin dashboards and backend APIs to manage events, export attendee data, monitor ticket sales, and support **500+ real-world event bookings**.
 
 **⛓️ Blockchain-Based Digital Asset Marketplace** *(June 2025)*
+
 * **Tech:** *React.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB, Solidity, Ethers.js*
 * ◦ Built a decentralized marketplace to tokenize, buy, sell, and rent digital assets as NFTs using **Ethereum smart contracts**, ensuring ownership, authenticity, and transparent transactions.
 * ◦ Developed a React.js frontend integrated with Solidity smart contracts via Ethers.js, enabling secure payments, automated transactions, and wallet-based authentication.
@@ -115,28 +116,6 @@
 
 ---
 
-<!-- --- -->
-
-### 📊 GitHub Analytics (Live Contributions)
-
-
-
-<p align="center">
-  <img
-    src="https://github.com/abbhhhiiiii/abbhhhiiiii/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg?raw=true"
-    width="100%"
-    alt="Profile Details"
-  />
-</p>
-
-
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhhhiiiii&theme=github_dark&hide_border=true&background=0D1117" width="80%" alt="GitHub Streak" />
-</p>
-
 ### 📊 GitHub Analytics (Live Contributions)
 
 <p align="center">
@@ -149,6 +128,8 @@
 
 <br>
 
+### 🔥 GitHub Streak
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/github-stats/streak.svg"
@@ -159,7 +140,7 @@
 
 <br>
 
-<h2>📈 Contribution Graph</h2>
+### 📈 Contribution Graph
 
 <p align="center">
   <img
