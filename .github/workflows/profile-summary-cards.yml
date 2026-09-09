@@ -1,26 +1,50 @@
-name: GitHub Profile Summary Cards
+name: Update GitHub Stats Images
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: abbhhhiiiii
-          BRANCH_NAME: profile-summary-card-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create stats directory
+        run: mkdir -p github-stats
+
+      - name: Download GitHub Streak
+        run: |
+          curl -fL \
+          --retry 3 \
+          --retry-delay 5 \
+          "https://streak-stats.demolab.com?user=abbhhhiiiii&theme=github-dark&hide_border=true&background=0D1117" \
+          -o github-stats/streak.svg || true
+
+      - name: Download Contribution Graph
+        run: |
+          curl -fL \
+          --retry 3 \
+          --retry-delay 5 \
+          "https://github-readme-activity-graph.vercel.app/graph?username=abbhhhiiiii&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=58a6ff&area=true&hide_border=true" \
+          -o github-stats/contribution-graph.svg || true
+
+      - name: Commit updated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-stats/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub stats images"
+            git push
+          fi
