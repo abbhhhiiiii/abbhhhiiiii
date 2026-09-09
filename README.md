@@ -1,13 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Web3&descAlignY=55&descAlign=50" width="100%"/>
-  
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Gupta;Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Architecting+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br>
-  
-  <!-- Visitor Counter -->
+
   <img src="https://komarev.com/ghpvc/?username=abbhhhiiiii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abbhhhiiiii" />
 </div>
 
@@ -122,7 +121,7 @@
   <img
     src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/profile-summary-card-output/github_dark/0-profile-details.svg"
     width="100%"
-    alt="Profile Details"
+    alt="GitHub Analytics"
   />
 </p>
 
@@ -135,18 +134,6 @@
     src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/github-stats/streak.svg"
     width="80%"
     alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/abbhhhiiiii/abbhhhiiiii/main/github-stats/contribution-graph.svg"
-    width="100%"
-    alt="GitHub Contribution Graph"
   />
 </p>
 
